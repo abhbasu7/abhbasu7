@@ -4,7 +4,7 @@ Tech Lead with 15+ years in insurance / financial services IT — .NET/C#, SQL
 (MSSQL, Postgres), AWS, and data engineering and analytics with Python, dbt and Alteryx.
 
 I spent most of my career on enterprise systems that don't live on GitHub, so this
-profile is new — I'm building it in the open now\e.
+profile is relatively new as of Nov 2026.
 
 ## What I'm building here
 
